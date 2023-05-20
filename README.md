@@ -10,7 +10,7 @@
       Host host.domain.com (your host url)
       ProxyCommand /usr/local/bin/cloudflared access ssh --hostname %h
   ### Proceed to ssh
-      ```ssh username@domain```
+      ssh username@domain.com
       
  Congrats You made it !!!
   
